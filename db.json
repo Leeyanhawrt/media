@@ -1,6 +1,41 @@
 {
   "users": [
-    {"id": 1, "name": "Myra"}
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Van Treutel MD",
+      "id": 2
+    },
+    {
+      "name": "Sabrina DuBuque",
+      "id": 3
+    },
+    {
+      "name": "Alonzo Conn",
+      "id": 4
+    },
+    {
+      "name": "Irving Casper",
+      "id": 5
+    },
+    {
+      "name": "Blanche Hamill",
+      "id": 6
+    },
+    {
+      "name": "Roosevelt Bailey MD",
+      "id": 7
+    },
+    {
+      "name": "Jacquelyn Price",
+      "id": 8
+    },
+    {
+      "name": "Charlie Konopelski",
+      "id": 9
+    }
   ],
   "albums": [],
   "photos": []
