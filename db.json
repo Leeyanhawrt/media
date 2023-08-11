@@ -1,104 +1,32 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Floyd Waters",
+      "id": 1
     },
     {
-      "name": "Van Treutel MD",
+      "name": "Carole Reichel",
       "id": 2
     },
     {
-      "name": "Sabrina DuBuque",
+      "name": "Ms. Meghan Brown II",
       "id": 3
     },
     {
-      "name": "Alonzo Conn",
+      "name": "Bill Von",
       "id": 4
     },
     {
-      "name": "Irving Casper",
+      "name": "Neil Schamberger",
       "id": 5
     },
     {
-      "name": "Blanche Hamill",
+      "name": "Donald Dare",
       "id": 6
     },
     {
-      "name": "Roosevelt Bailey MD",
+      "name": "Molly Crooks",
       "id": 7
-    },
-    {
-      "name": "Jacquelyn Price",
-      "id": 8
-    },
-    {
-      "name": "Charlie Konopelski",
-      "id": 9
-    },
-    {
-      "name": "Randolph Schuppe",
-      "id": 10
-    },
-    {
-      "name": "Tyler Dickinson",
-      "id": 11
-    },
-    {
-      "name": "Susie Labadie",
-      "id": 12
-    },
-    {
-      "name": "Willard Heaney",
-      "id": 13
-    },
-    {
-      "name": "Joan Reinger",
-      "id": 14
-    },
-    {
-      "name": "Sheri Bogan",
-      "id": 15
-    },
-    {
-      "name": "Belinda Schowalter MD",
-      "id": 16
-    },
-    {
-      "name": "Ervin Renner PhD",
-      "id": 17
-    },
-    {
-      "name": "Jonathon Osinski",
-      "id": 18
-    },
-    {
-      "name": "Lela Nader",
-      "id": 19
-    },
-    {
-      "name": "Miss Alexis Zulauf",
-      "id": 20
-    },
-    {
-      "name": "Rebecca Ortiz",
-      "id": 21
-    },
-    {
-      "name": "Dr. Angelo Morar Sr.",
-      "id": 22
-    },
-    {
-      "name": "Jennifer Stamm",
-      "id": 23
-    },
-    {
-      "name": "Ellis Labadie",
-      "id": 24
-    },
-    {
-      "name": "Rochelle Keeling",
-      "id": 25
     }
   ],
   "albums": [],
