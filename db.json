@@ -1,32 +1,12 @@
 {
   "users": [
     {
-      "name": "Floyd Waters",
+      "name": "Marco Walter Sr.",
       "id": 1
     },
     {
-      "name": "Carole Reichel",
+      "name": "Willis Williamson IV",
       "id": 2
-    },
-    {
-      "name": "Ms. Meghan Brown II",
-      "id": 3
-    },
-    {
-      "name": "Bill Von",
-      "id": 4
-    },
-    {
-      "name": "Neil Schamberger",
-      "id": 5
-    },
-    {
-      "name": "Donald Dare",
-      "id": 6
-    },
-    {
-      "name": "Molly Crooks",
-      "id": 7
     }
   ],
   "albums": [
@@ -37,83 +17,13 @@
     },
     {
       "userId": 1,
-      "title": "Tasty Cotton Hat",
+      "title": "Practical Granite Chair",
       "id": 11
     },
     {
-      "userId": 1,
-      "title": "Awesome Cotton Soap",
+      "userId": 2,
+      "title": "Handcrafted Steel Cheese",
       "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Practical Fresh Gloves",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Elegant Soft Computer",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Gorgeous Frozen Gloves",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Ergonomic Rubber Soap",
-      "id": 16
-    },
-    {
-      "userId": 1,
-      "title": "Small Soft Bacon",
-      "id": 17
-    },
-    {
-      "userId": 1,
-      "title": "Modern Cotton Towels",
-      "id": 18
-    },
-    {
-      "userId": 1,
-      "title": "Modern Granite Ball",
-      "id": 19
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Granite Bacon",
-      "id": 20
-    },
-    {
-      "userId": 1,
-      "title": "Handmade Soft Chicken",
-      "id": 21
-    },
-    {
-      "userId": 1,
-      "title": "Sleek Steel Pants",
-      "id": 22
-    },
-    {
-      "userId": 2,
-      "title": "Awesome Steel Car",
-      "id": 23
-    },
-    {
-      "userId": 2,
-      "title": "Luxurious Rubber Pants",
-      "id": 24
-    },
-    {
-      "userId": 2,
-      "title": "Generic Wooden Soap",
-      "id": 25
-    },
-    {
-      "userId": 3,
-      "title": "Generic Concrete Mouse",
-      "id": 26
     }
   ],
   "photos": []
