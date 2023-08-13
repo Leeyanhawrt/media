@@ -29,6 +29,57 @@
       "id": 7
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId:": 1
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Cotton Hat",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Cotton Soap",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Practical Fresh Gloves",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Soft Computer",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Frozen Gloves",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Rubber Soap",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Small Soft Bacon",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Modern Cotton Towels",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Modern Granite Ball",
+      "id": 19
+    }
+  ],
   "photos": []
 }
