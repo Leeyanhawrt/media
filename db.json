@@ -7,6 +7,10 @@
     {
       "name": "Willis Williamson IV",
       "id": 2
+    },
+    {
+      "name": "Kayla Beer",
+      "id": 3
     }
   ],
   "albums": [
@@ -24,6 +28,46 @@
       "userId": 2,
       "title": "Handcrafted Steel Cheese",
       "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Cotton Table",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Bronze Computer",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Wooden Chicken",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Metal Gloves",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Metal Fish",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Modern Wooden Cheese",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Fresh Keyboard",
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "title": "Sleek Plastic Shirt",
+      "id": 20
     }
   ],
   "photos": []

@@ -1,10 +1,24 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { faker } from '@faker-js/faker';
 
+// REMOVE FOR PROD
+// SETTING ARTIFICAL PAUSE TO ENSURE SPINNERS ARE WORKING
+const pause = (duration) => {
+  return new Promise((resolve) => {
+    setTimeout(resolve, duration)
+  })
+}
+
 const albumsApi = createApi({
   reducerPath: 'albums',
   baseQuery: fetchBaseQuery({
-    baseUrl: 'http://localhost:3005'
+    baseUrl: 'http://localhost:3005',
+    // REMOVE FOR PROD
+    // OVERRIDE DEFAULT FETCH FUNCTION WHEN RAN 
+    fetchFn: async (...args) => {
+      await pause(1000);
+      return fetch(...args)
+    }
   }),
   endpoints(builder) {
     return {
