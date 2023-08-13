@@ -79,6 +79,41 @@
       "userId": 1,
       "title": "Modern Granite Ball",
       "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Granite Bacon",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Soft Chicken",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Steel Pants",
+      "id": 22
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Steel Car",
+      "id": 23
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Rubber Pants",
+      "id": 24
+    },
+    {
+      "userId": 2,
+      "title": "Generic Wooden Soap",
+      "id": 25
+    },
+    {
+      "userId": 3,
+      "title": "Generic Concrete Mouse",
+      "id": 26
     }
   ],
   "photos": []
