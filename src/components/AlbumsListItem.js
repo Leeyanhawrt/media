@@ -1,19 +1,28 @@
 import ExpandablePanel from './ExpandablePanel';
 import Button from './Button'
+import { useRemoveAlbumMutation } from '../store';
 import { GoTrash } from 'react-icons/go';
+import { Fragment } from 'react';
+import PhotosList from './PhotosList';
 
 function AlbumsListItem({ album }) {
+  const [removeAlbum, results] = useRemoveAlbumMutation(album);
+
+  const handleRemoveItem = () => {
+    removeAlbum(album)
+  }
+
   const header =
-    <div>
-      <Button>
+    <Fragment>
+      <Button className="mr-2" loading={results.isLoading} onClick={handleRemoveItem} >
         <GoTrash />
       </Button>
       {album.title}
-    </div>
+    </Fragment >
 
   return (
     <ExpandablePanel key={album.id} header={header}>
-      List of photos in the album
+      <PhotosList album={album} />
     </ExpandablePanel>
   );
 }
